@@ -6,4 +6,4 @@ import App from './App';
 const root = createRoot(document.getElementById('root'));
 
 // Render the root component
-root.render(<App />);
+root.render(<App/>);
